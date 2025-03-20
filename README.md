@@ -1,4 +1,4 @@
-<h1 align="left">Emilio Bensignor | Frontend Developer</h1>
+<h1 align="center">Emilio Bensignor | Frontend Developer</h1>
 
 ###
 
